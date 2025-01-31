@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tejas👋, </h1>
-<h3 align="center">Tech Enthusiast | Web Developer | TA for CSCi 40 - Intro to Programming</h3>
+<h3 align="center">Tech Enthusiast | Web Developer | Teaching Associate for CSCi 113 & 40</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejassgg&label=Profile%20views&color=0e75b6&style=flat" alt="tejassgg" /> </p>-->
 
