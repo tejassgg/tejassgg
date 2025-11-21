@@ -8,7 +8,7 @@ I am currently a <strong>Research Assistant</strong> at California State Univers
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,py,pytorch,azure,aws,mongodb,mysql,postman,unity " alt="My Tech Stack" />
+<p style='align:center;'>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,py,pytorch,azure,aws,mongodb,mysql,postman,unity,figma,git,github,vercel,vscode,html,css,jshtmx" alt="My Tech Stack" />
 </p>
 
